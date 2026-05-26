@@ -199,5 +199,15 @@ export const SkillsInfo = [
       github: "https://github.com/roshan8593/stockCrow",
       webapp: "https://stockcrow-fronend-main-page1.onrender.com/",
     },
+     {
+      id: 0,
+      title: "Shoomigle",
+      description:
+        "Shoomigle is a real-time peer-to-peer video chat platform built using WebRTC and Socket.IO for seamless audio/video communication between users.",
+      image: project1,
+      tags: ["HTML", "CSS", "JavaScript", "React JS", "API","Chart.js","Bootsrap","Material Ui","Tailwind Css","socket.io","web RTC"],
+      github: "https://github.com/roshan8593/shoomigle-",
+      webapp: "https://shoomigle-frontend.onrender.com/",
+    },
     
   ];  
